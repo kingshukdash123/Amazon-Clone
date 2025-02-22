@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+.page {
+    background-color: #0f1111;
+    display: flex;
+    height: 100vh;
+    display: flex;
+flex-direction: column;
+}
+.heading {
+    height:20%;
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    text-transform: capitalize;
+
+}
+.content {
+    color: #dddddd;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.msg {
+    display: inline;
+    font-size: 2rem;
+    text-align: center;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img {
+    background-image: url("maintenance.png");
+    height: 425px;
+    width: 625px;
+    background-size: cover;
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1.2rem;
+}
+.repair {
+    background-color: #dddddd;
+    height: 3.5rem;
+    width: 16rem;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.repair-msg {
+    font-size: 2rem;
+    font-weight: 900;
+    font-family: monospace;
+    text-transform: capitalize;
+    color: #0f1111;
+}
