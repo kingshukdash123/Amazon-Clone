@@ -1,2 +1,2 @@
 # Amazon-Clone
-This is a only clone of amazon.com
+This is an only clone of amazon.com
